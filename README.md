@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/valentines-website.git
+git clone https://github.com/169398/valentines-website.git
 Open the HTML File:
 Open the index.html file in your preferred text editor or IDE to explore the site's structure. Then, either open it in your browser or use Live Server to experience the site live.
 
